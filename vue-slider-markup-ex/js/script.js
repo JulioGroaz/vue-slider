@@ -22,4 +22,3 @@ const slides = [
     }
 ];
 
-console.log(slides);

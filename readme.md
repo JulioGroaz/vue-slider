@@ -8,4 +8,11 @@ Bonus:
 Consigli del giorno:
 regola d'oro: riciclare ovunque possibile!
 il riciclo spesso va a braccetto con le funzioni! Sapendole sfruttare bene, l'esercizio si riduce a poche righe :occhiolino:
-ii
+
+SCOMPOSIZIONE DEL PROBLEMA:
+
+1) implementare Vue.
+2) con html aggiungere i pulsanti e gestirli con css.
+3) creare funzioni di click che permettano di passare da un'immagine a l'altra.
+    - utilizzare v-for per creare le slide basate sui dati
+    -v-show per vederne solo una alla volta
