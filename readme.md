@@ -8,3 +8,4 @@ Bonus:
 Consigli del giorno:
 regola d'oro: riciclare ovunque possibile!
 il riciclo spesso va a braccetto con le funzioni! Sapendole sfruttare bene, l'esercizio si riduce a poche righe :occhiolino:
+ii
