@@ -31,7 +31,7 @@ const app = Vue.createApp({
             slidesIndex: 0
         };
     },
-    scorrimento: {
+    methods: {
         next(){
             this.slidesIndex = (this.slidesIndex+1) % this.slides.length; // questo mi permette di ricominciare il giro delle immagini ogni volta che lo slidesIndex diviso con slides.lenght da resto 0.
         },

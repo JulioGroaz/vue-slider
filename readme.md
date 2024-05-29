@@ -15,4 +15,4 @@ SCOMPOSIZIONE DEL PROBLEMA:
 2) con html aggiungere i pulsanti e gestirli con css.
 3) creare funzioni di click che permettano di passare da un'immagine a l'altra.
     - utilizzare v-for per creare le slide basate sui dati
-    -v-show per vederne solo una alla volta
+    - v-show per vederne solo una alla volta
